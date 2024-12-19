@@ -7,12 +7,12 @@ Aside from coding, I love to...
 - I also do ftc robotics! 🤖
 
 ## 🖱️ Experienceeeeee
-High level of experience with several programming languages and aspects of full stack development. 
+High level of experience with several programming languages and aspects of full stack development.\
 ✅ Proficient in the following, but not limited to, languages:
 - Java (Backend + Frontend, Spring)
 - Python (Python, Flask, RestAPI)
 - HTML / CSS (Web development)
-- Javascript (Node.js, React.js, etc.)
+- Javascript (Node.js, React.js, etc.)\
 ✅ I've
 - Worked with SQL, SQLite, MongoDB, PostgreSQL, and other database frameworks. 🌐
 - Worked with Java APIs, Node.js backends / APIs, RestAPIs, Flask APIs, and other API frameworks. 🌐
