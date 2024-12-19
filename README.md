@@ -1,7 +1,7 @@
 # Hi there, I'm Abhi 👋
 
 ## 😊 About moi!
-I'm a 15 y/o fullstack developer who loves to create fun games 🎮 and usefull applications 💻!\
+I'm a fullstack developer who loves to create fun games 🎮 and usefull applications 💻!\
 Aside from coding, I love to...
 - Play the violin 🎻 / piano 🎹 and swim 🌊 (not at the same time)
 - I also do ftc robotics! 🤖
