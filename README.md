@@ -1,5 +1,5 @@
-![alt text](./IMG_1441-removebg-preview.png)
 # Hi there, I'm Abhi 👋
+![alt text](./IMG_1441-removebg-preview.png)
 
 ## 😊 About moi!
 I'm a fullstack developer who loves to create fun games 🎮 and usefull applications 💻!\
