@@ -1,12 +1,12 @@
 # Hi there, I'm Abhi 👋
 
-## 😊 About meeeeeeee
+## 😊 About moi!
 I'm a 15 y/o fullstack developer who loves to create fun games 🎮 and usefull applications 💻!\
 Aside from coding, I love to...
 - Play the violin 🎻 / piano 🎹 and swim 🌊 (not at the same time)
 - I also do ftc robotics! 🤖
 
-## 🖱️ Experienceeeeee
+## 🖱️ Experience!
 High level of experience with several programming languages and aspects of full stack development.\
 ✅ Proficient in the following, but not limited to, languages:
 - Java (Backend + Frontend, Spring)
