@@ -26,7 +26,7 @@ See you  elsewhere on the internet!
 - [My website](https://abhiramtx.github.io/portfolio/)
 
 
-![alt text](https://avatars.githubusercontent.com/u/106994329?v=4)
+![alt text](./IMG_1441-removebg-preview.png)
 <!--
 **abhiramtx/abhiramtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
