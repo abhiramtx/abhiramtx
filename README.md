@@ -1,5 +1,6 @@
 # Hi there, I'm Abhi 👋
 ![alt text](./me.png)
+^ yes, that's me.
 
 ## 😊 About moi!
 I'm a fullstack developer who loves to create fun games 🎮 and usefull applications 💻!\
