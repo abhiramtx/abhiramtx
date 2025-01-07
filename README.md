@@ -14,7 +14,7 @@ High level of experience with several programming languages and aspects of full 
 - Java (Backend + Frontend, Spring) ☕️
 - Python (Python, Flask, RestAPI) 🐍
 - HTML / CSS (Web development) 🖥️
-- Javascript (Node.js, React.js, etc.) 📝 <br/>
+- Javascript (Node.js, React.js, Next.js, Vite, Express, etc.) 📝 <br/>
 
 ✅ I've also
 - Worked with SQL, SQLite, MongoDB, PostgreSQL, and other database frameworks. 📚
