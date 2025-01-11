@@ -22,7 +22,7 @@ High level of experience with several programming languages and aspects of full 
 
 ✅ I've also
 - Worked with SQL, SQLite, MongoDB, PostgreSQL, FIREBASE (main), and other database frameworks. 📚
-- Worked with Java APIs, Node.js backends / APIs, RestAPIs, Flask APIs, and other API frameworks. 🌐
+- Worked with Java APIs, Node.js Express backends / APIs, RestAPIs, Flask APIs, and other API frameworks. 🌐
 - Worked with AI frameworks such as CNNs, RNNs, ANNs, GRUs, LSTMs (created using Tensorflow, Pytorch, and from-scratch implementations). 🤖
 
 ## 👋 Byeeeeeeee!
