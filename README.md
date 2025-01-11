@@ -31,7 +31,6 @@ See you  elsewhere on the internet!
 - [My github](https://github.com/abhiramtx)
 - [My website](https://abhiramtx.github.io/portfolio/)
 
-<small>This is small text</small>
 <!--
 **abhiramtx/abhiramtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
