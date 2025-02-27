@@ -9,7 +9,7 @@
 I'm a fullstack developer who loves to create fun games 🎮 and usefull applications 💻!\
 Aside from coding, I love to...
 - Play the violin 🎻 / piano 🎹 and swim 🌊 (not at the same time)
-- I also do ftc robotics! 🤖
+- I also do ftc robotics (23344 TECHNICAL TURBULENCE)! 🤖
 
 ## 🖱️ Experience!
 High level of experience with several programming languages and aspects of full stack development.\
