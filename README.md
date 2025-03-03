@@ -13,7 +13,7 @@ Aside from coding, I love to...
 
 ## 🖱️ Experience!
 High level of experience with several programming languages and aspects of full stack development.\
-[![Good Skills](https://skillicons.dev/icons?i=typescript,react,tailwind,py,js,css,html)](https://github.com/abhiramtx)\
+[![](https://skillicons.dev/icons?i=typescript,react,tailwind,py,js,css,html)](https://github.com/abhiramtx)\
 ✅ Proficient in the following, but not limited to, languages:
 - Java (Backend + Frontend, Spring) ☕️
 - Python (Python, Flask, RestAPI) 🐍
@@ -22,6 +22,7 @@ High level of experience with several programming languages and aspects of full 
 - Bash, PowerShell, Sh 🖳 <br/>
 
 ✅ I've also
+[![](https://skillicons.dev/icons?i=postgres,mongodb,firebase,sql)](https://github.com/programordie2)\
 - Worked with SQL, SQLite, MongoDB, PostgreSQL, FIREBASE (main), and other database frameworks. 📚
 - Worked with Java APIs, Node.js Express backends / APIs, RestAPIs, Flask APIs, and other API frameworks. 🌐
 - Worked with AI frameworks such as CNNs, RNNs, ANNs, GRUs, LSTMs (created using Tensorflow, Pytorch, and from-scratch implementations). 🤖
