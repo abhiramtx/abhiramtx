@@ -13,7 +13,7 @@ Aside from coding, I love to...
 
 ## 🖱️ Experience!
 High level of experience with several programming languages and aspects of full stack development.\
-[![Good Skills](https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,py,js,css)](https://github.com/abhiramtx)
+[![Good Skills](https://skillicons.dev/icons?i=typescript,react,tailwind,py,js,css,html)](https://github.com/abhiramtx)\
 ✅ Proficient in the following, but not limited to, languages:
 - Java (Backend + Frontend, Spring) ☕️
 - Python (Python, Flask, RestAPI) 🐍
