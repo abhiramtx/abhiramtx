@@ -2,9 +2,6 @@
 ![](https://raw.githubusercontent.com/abhiramtx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/abhiramtx/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-![alt text](./me.png)
-     < yes, that's me.
-
 ## 😊 About moi!
 I'm a fullstack developer who loves to create fun games 🎮 and usefull applications 💻!\
 Aside from coding, I love to...
