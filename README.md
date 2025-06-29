@@ -1,4 +1,10 @@
-# Hi there, I'm Abhi 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YvuksauoiF8XXQzwU2/giphy.gif" width="200"/>
+  <h1>
+    hey there,
+  </h1>
+  <h2>i'm Abhi.</h2>
+</div>
 ![](https://raw.githubusercontent.com/abhiramtx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/abhiramtx/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
