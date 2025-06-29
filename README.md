@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1>
     hey there, i'm Abhi.
+     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 ![](https://raw.githubusercontent.com/abhiramtx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
