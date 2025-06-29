@@ -33,7 +33,7 @@ I'm highly experienced with several programming languages and aspects of full st
 
 ---
 
-### 👋 Byeeeeeeee!
+### 👋 byeeeeeeee!
 See you  elsewhere on the internet!
 - [My Replit](https://replit.com/@abhiramtx)
 - [My github](https://github.com/abhiramtx)
