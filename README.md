@@ -5,20 +5,20 @@
   </h1>
 </div>
 
+### 😊 about moi!
 
-![](https://raw.githubusercontent.com/abhiramtx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/abhiramtx/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+Welcome to my profile! I am a fullstack developer who loves to create fun games 🎮 and useful applications 💻!\
 
-## 😊 About moi!
-I'm a fullstack developer who loves to create fun games 🎮 and usefull applications 💻!\
 Aside from coding, I love to...
 - Play the violin 🎻 / piano 🎹 and swim 🌊 (not at the same time)
 - I also do ftc robotics (23344 TECHNICAL TURBULENCE)! 🤖
 
-## 🖱️ Experience!
-High level of experience with several programming languages and aspects of full stack development.\
+---
+
+### 🖱️ experience!
+I'm highly experienced with several programming languages and aspects of full stack development.\
 [![](https://skillicons.dev/icons?i=typescript,react,tailwind,py,js,css,html)](https://github.com/abhiramtx)\
-✅ Proficient in the following, but not limited to, languages:
+✅ I'm proficient in the following, but not limited to, languages:
 - Java (Backend + Frontend, Spring) ☕️
 - Python (Python, Flask, RestAPI) 🐍
 - HTML / CSS (Web development) 🖥️
@@ -31,7 +31,9 @@ High level of experience with several programming languages and aspects of full 
 - Worked with Java APIs, Node.js Express backends / APIs, RestAPIs, Flask APIs, and other API frameworks. 🌐
 - Worked with AI frameworks such as CNNs, RNNs, ANNs, GRUs, LSTMs (created using Tensorflow, Pytorch, and from-scratch implementations). 🤖
 
-## 👋 Byeeeeeeee!
+---
+
+### 👋 Byeeeeeeee!
 See you  elsewhere on the internet!
 - [My Replit](https://replit.com/@abhiramtx)
 - [My github](https://github.com/abhiramtx)
