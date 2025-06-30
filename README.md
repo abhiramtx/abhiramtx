@@ -40,6 +40,12 @@ I'm highly experienced with several programming languages and aspects of full st
 
 ---
 
+### 📊 some stats!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhiramtx)](https://git.io/streak-stats)
+
+---
+
 ### 👋 byeeeeeeee!
 See you  elsewhere on the internet!
 - [My Replit](https://replit.com/@abhiramtx)
