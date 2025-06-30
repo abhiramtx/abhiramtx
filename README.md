@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wQRaORbknwSJGbAbiRAl8j60xBDmRpzFve4dZRIrkF0YiX6dADfMBNmShidhi-24hWTBmzr0DRW9sgge7XSOAHGhkcML40P8DhNUc6f0WIO8uxty-oPt6DQObbdKedar0XOPDEbtu2vwatI0aK5_jMt_rK7yZI0IUhK71BE5W8e1PfQ2qicvonAD/s16000/46207-programmer-1.gif" width="100px"/>
+  <img src="../46207-programmer-1-ezgif.com-gif-maker.gif" width="100px"/>
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     hey there, i'm Abhi.
