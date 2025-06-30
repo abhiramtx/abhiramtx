@@ -7,7 +7,7 @@
 
 ### 😊 about moi!
 
-Welcome to my profile! I am a fullstack developer who loves to create fun games 🎮 and useful applications 💻!\
+Welcome to my profile! I am a fullstack developer who loves to create fun games 🎮 and useful applications 💻!
 
 Aside from coding, I love to...
 - Play the violin 🎻 / piano 🎹 and swim 🌊 (not at the same time)
