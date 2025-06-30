@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./46207-programmer-1-ezgif.com-gif-maker.gif" width="100px"/>
+  <img src="./46207-programmer-1-ezgif.com-gif-maker.gif" width="500px"/>
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     hey there, i'm Abhi.
