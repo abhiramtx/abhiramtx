@@ -7,6 +7,10 @@
 
 ### 😊 about moi!
 
+I love puzzles. Not so much the physical kind, unless they have 20 pieces or so, but the kind that you have to ponder deeply and come up with some logic to solve some of the most pressing problems. 
+
+...and that's where my passion for coding comes in.
+
 Welcome to my profile! I am a fullstack developer who loves to create fun games 🎮 and useful applications 💻!
 
 Aside from coding, I love to...
