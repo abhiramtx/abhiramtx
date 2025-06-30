@@ -15,6 +15,7 @@ Welcome to my profile! I am a fullstack developer who loves to create fun games 
 
 Aside from coding, I love to...
 - Play the violin 🎻 / piano 🎹 and swim 🌊 (not at the same time)
+- Speech & Debate 👨‍⚖️
 - I also do ftc robotics (23344 TECHNICAL TURBULENCE)! 🤖
 
 ---
