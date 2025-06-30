@@ -44,7 +44,8 @@ I'm highly experienced with several programming languages and aspects of full st
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abhiramtx&theme=highcontrast)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiramtx&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramtx&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramtx&layout=compact&card_width=495&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 👋 byeeeeeeee!
