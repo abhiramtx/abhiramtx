@@ -42,7 +42,7 @@ I'm highly experienced with several programming languages and aspects of full st
 
 ### 📊 some stats!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhiramtx)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhiramtx&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
