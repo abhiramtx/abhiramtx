@@ -8,7 +8,7 @@
 
 ### 😊 about moi!
 
-I love puzzles. Not so much the physical cardboard kinds, unless they have 20 pieces or so, but the kinds that think, inquire, and imagine a solution to some of the most pressing problems. 
+I love puzzles. Not so much the physical cardboard kinds, unless they have 20 pieces or so, but the kinds that require you to think, imagine, and engineer a solution to some of the most pressing problems. 
 
 ...and that's where my passion for coding comes in.
 
