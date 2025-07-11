@@ -39,6 +39,10 @@ I'm highly experienced with several programming languages and aspects of full st
 - Git, Github, and AWS 🌐
 
 ---
+### 🕘 work experience! 
+- Software developer @ Liberty Mutual Insurance
+- Software developer @ Technical Turbulence FTC
+---
 
 ### 📊 some stats!
 
