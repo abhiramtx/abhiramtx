@@ -23,7 +23,7 @@ Aside from coding, I love to...
 
 ### 🖱️ experience!
 I'm highly experienced with several programming languages and aspects of full stack development.\
-[![](https://skillicons.dev/icons?i=typescript,react,tailwind,py,js,css,html,next,vite,c,angular,flask,express)](https://github.com/abhiramtx)\
+[![](https://skillicons.dev/icons?i=typescript,react,tailwind,py,js,css,html,next,vite,c,angular,flask,express,node)](https://github.com/abhiramtx)\
 ✅ I'm proficient in the following, but not limited to, languages:
 - Java (Backend + Frontend, Spring) ☕️
 - Python (Python, Flask, RestAPI) 🐍
