@@ -48,7 +48,7 @@ I'm highly experienced with several programming languages and aspects of full st
 ---
 
 ### 👋 byeeeeeeee!
-Thank you for taking the time to read this; best of luck on your internet journey!
+Thank you for taking the time to read this; wishing you the best on your internet journey!
 See you  elsewhere on the internet!
 - [My Replit](https://replit.com/@abhiramtx)
 - [My github](https://github.com/abhiramtx)
