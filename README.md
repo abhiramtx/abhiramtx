@@ -42,6 +42,7 @@ I'm highly experienced with several programming languages and aspects of full st
 ### 🕘 work experience! 
 - Software developer @ Liberty Mutual Insurance
 - Software developer @ Technical Turbulence FTC
+- Director of Technical Operations @ Plano East NHS
 ---
 
 ### 📊 some stats!
